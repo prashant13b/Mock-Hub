@@ -73,7 +73,7 @@ var QuizUI = {
 };
 //Create Questions
 var questions = [
-    new Question("Who is Best Person in the world", [ "Prashant", "Pariksha", "Nidhi", "None" ], "Pariksha"),
+    new Question("Who is Best Person in the world", [ "Prashant", "Pariksha", "Nidhi", "None" ], "Nidhi"),
     new Question("What is Prashant Lucky Number", ["13","18", "7", "I don't know"], "13"),
     new Question("What is Prashant Age", ["20","19", "21", "22"], "21"),
     new Question("In which prashant did industrial training", ["Javascript","Android", "Java", "Sayad Java"], "Sayad Java"),
